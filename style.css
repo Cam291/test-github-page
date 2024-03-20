@@ -4,5 +4,8 @@ h1 {
 }
 
 p {
-    color: black;
+    font-size: 30px;
+    color: #1398b9;
+    solid;
+    background-color: #5c5e56;
 }
